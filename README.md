@@ -14,3 +14,10 @@ Lecture [link](https://dmucode.github.io/version-control/gitgui_github.pptx)
 
 ACM Video Tutorials (Git using Command Prompt)
 [link](https://gitdmu.github.io)
+
+----
+
+## Syntax, Style and Naming Conventions
+
+Code Naming Convention Document
+[link](https://dmucode.github.io/code_naming_notation/NamingStandards.docx)
