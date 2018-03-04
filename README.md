@@ -20,3 +20,6 @@ ACM Video Tutorials (Git using Command Prompt)
 
 Code Naming Convention Document
 [link](https://dmucode.github.io/code_naming_notation/NamingStandards.docx)
+
+Script Checker
+[link](https://dmu.pythonanywhere.com/hello/default/index)
